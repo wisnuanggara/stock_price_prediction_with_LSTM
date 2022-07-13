@@ -1,4 +1,4 @@
-# 📱 Article Recommendation System
+# 📱 Stock price prediction w/ LSTM
 
 _📌 **Data**_ <br/>
 
