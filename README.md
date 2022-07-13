@@ -17,7 +17,7 @@ $ conda env create environment.yml
 ```
 - Activate the virtual environment
 ```
-$ conda activate learn-article-recsys
+$ conda activate learn_stock_price_lstm
 ```
 - Run App
 ```
